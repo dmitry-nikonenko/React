@@ -1,0 +1,19 @@
+.header {
+  background: lightcyan;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.link {
+  font-size: 21px;
+  color: violet;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+
+.linkActive {
+  color: blue;
+}
